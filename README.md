@@ -1,2 +1,2 @@
 # mathematica
-Mathematica notebooks for various math figures
+Mathematica notebooks for various math figures from robertdickau.com.
